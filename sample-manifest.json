@@ -1,0 +1,12 @@
+{
+  "export_job_id": "08462496-6c4d-4641-aa7c-7c1fcda7fd32",
+  "id_short": 792631,
+  "published_at": "2026-04-15T19:22:44Z",
+  "repo_name": "all-restaurants-in-tennessee-us-sample-792631",
+  "sample_asset_name": "beamstation_792631_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/792631/beamstation_792631_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "96dd77e00a4fd86479ca16cd2952caddd9e69f0bdeea8b9c837a262fe7f5c0af",
+  "sample_size_bytes": 2772107,
+  "total_records": 14373
+}
