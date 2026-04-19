@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across Tennessee. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Tennessee, US",
-  "export_job_id": "08462496-6c4d-4641-aa7c-7c1fcda7fd32",
+  "export_job_id": "d8494c06-0cc0-4276-99ca-61b458f83c67",
   "github_org": "Beamstation-Datasets",
   "id_short": 792631,
   "location_name": "Tennessee",
   "location_type": "state",
   "repo_name": "all-restaurants-in-tennessee-us-sample-792631",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/792631/beamstation_792631_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_pct": 6.96,
+  "sample_pct": 6.97,
   "sample_records": 1000,
-  "sample_sha256": "96dd77e00a4fd86479ca16cd2952caddd9e69f0bdeea8b9c837a262fe7f5c0af",
-  "sample_size_bytes": 2772107,
-  "total_records": 14373,
-  "updated_at": "2026-04-09T15:03:13.683754+00:00"
+  "sample_sha256": "50b1189d6780169d691be1200e9fd51ce2fb29f5e3ee64ac5b532666db24599c",
+  "sample_size_bytes": 2289555,
+  "total_records": 14357,
+  "updated_at": "2026-04-16T17:23:15.286282+00:00"
 }
