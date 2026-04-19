@@ -9,9 +9,9 @@
 | Dataset ID | `792631` |
 | Location | Tennessee |
 | Category | Restaurants |
-| Full dataset size | 14,373 records |
-| Free sample size | 1,000 records (6.96%) |
-| Last export | 2026-04-09T15:03:13.683754+00:00 |
+| Full dataset size | 14,357 records |
+| Free sample size | 1,000 records (6.97%) |
+| Last export | 2026-04-16T17:23:15.286282+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tennessee-us-sample-792631/releases/download/sample-latest/beamstation_792631_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
