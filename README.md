@@ -1,6 +1,6 @@
 # All Restaurants in Tennessee, US
 
-> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+> Free BeamStation sample export with 997 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `792631` |
 | Location | Tennessee |
 | Category | Restaurants |
-| Full dataset size | 14,357 records |
-| Free sample size | 1,000 records (6.97%) |
-| Last export | 2026-04-16T17:23:15.286282+00:00 |
+| Full dataset size | 9,978 records |
+| Free sample size | 997 records (9.99%) |
+| Last export | 2026-04-23T14:19:35.314427+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tennessee-us-sample-792631/releases/download/sample-latest/beamstation_792631_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
